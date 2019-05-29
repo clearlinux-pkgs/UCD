@@ -8,4 +8,4 @@
 +	
 +install:
 +	mkdir -p $(DESTDIR)/usr/share/unicode/ucd
-+	cp * $(DESTDIR)/usr/share/unicode/ucd
++	cp -a ../* $(DESTDIR)/usr/share/unicode/ucd
