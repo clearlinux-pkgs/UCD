@@ -1,0 +1,11 @@
+--- /dev/null	2018-12-01 20:13:38.447096860 +0000
++++ o/Makefile	2019-05-29 07:23:48.909415327 +0000
+@@ -0,0 +1,8 @@
++all: dumm
++
++dumm:
++	echo "No Build"
++	
++install:
++	mkdir -p $(DESTDIR)/usr/share/unicode/ucd
++	cp * $(DESTDIR)/usr/share/unicode/ucd
