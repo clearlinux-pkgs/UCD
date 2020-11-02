@@ -4,7 +4,7 @@
 #
 Name     : UCD
 Version  : 1
-Release  : 2
+Release  : 3
 URL      : https://www.unicode.org/Public/zipped/12.1.0/UCD.zip
 Source0  : https://www.unicode.org/Public/zipped/12.1.0/UCD.zip
 Summary  : No detailed summary available
